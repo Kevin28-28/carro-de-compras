@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Aug 25 18:44:40 CST 2026
+comment0.target=Carrito
+comment1.target=Carrito()
+comment2.params=p
+comment2.target=void agregarProducto(Producto)
+comment3.params=nombre
+comment3.target=void eliminarProducto(java.lang.String)
+comment4.target=double calcularTotal()
+comment5.target=java.util.List getProductos()
+numComments=6

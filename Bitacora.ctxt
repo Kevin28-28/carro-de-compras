@@ -1,0 +1,8 @@
+#BlueJ class context
+#Tue Aug 25 18:54:50 CST 2026
+comment0.target=Bitacora
+comment1.target=Bitacora()
+comment2.params=mensaje
+comment2.target=void registrar(java.lang.String)
+comment3.target=void mostrarRegistros()
+numComments=4

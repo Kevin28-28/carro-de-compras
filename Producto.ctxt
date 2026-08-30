@@ -1,0 +1,9 @@
+#BlueJ class context
+#Tue Aug 25 18:41:46 CST 2026
+comment0.target=Producto
+comment0.text=\r\n Write a description of class producto here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=nombre precio
+comment1.target=Producto(java.lang.String, double)
+comment2.target=java.lang.String getNombre()
+comment3.target=double getPrecio()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+#Tue Aug 25 20:09:48 CST 2026
+comment0.target=Banco
+comment1.params=nombre
+comment1.target=Banco(java.lang.String)
+comment2.params=monto
+comment2.target=boolean procesarPago(double)
+comment3.target=java.lang.String getNombre()
+numComments=4
